@@ -1,0 +1,22 @@
+{
+  "cats": [
+    {
+      "id": 1,
+      "name": "Macky",
+      "age": 12,
+      "breed": "Persian Cat"
+    },
+    {
+      "id": 2,
+      "name": "Jonny",
+      "age": 18,
+      "breed": "Space Cat"
+    },
+    {
+      "id": 3,
+      "name": "Pikachu",
+      "age": 26,
+      "breed": "Yellow Cat"
+    }
+  ]
+}
